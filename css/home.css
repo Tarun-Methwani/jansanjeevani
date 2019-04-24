@@ -1,0 +1,212 @@
+#heading{
+	text-align:center;
+	display:inline-block;
+	width:80%;
+	font-size:40px;
+}
+
+#logo{
+	font-size:40px;
+	padding:0px 10px;
+	border-right:1px solid black;
+}
+
+.stylish-input-group{
+	margin-top:10px;
+}
+
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+.input-group{
+	width:100%;
+	border:1px solid black;
+}
+.btn btn-primary
+{
+    align-items: center;
+}
+
+.container{
+	margin:0px 0px 0px 0px ;
+}
+.container2{
+	padding-top:0px;
+	margin:0px 0px 0px 0px ;
+    
+}
+.container h2
+{
+    color: blue;
+   
+    border: 1px solid darkblue;
+    border-width: low;
+    padding : 0px;
+    text-align:center;
+}
+
+
+/*.navbar{
+	margin:0 auto;
+	width:90%;
+	background:none;
+}*/
+
+#main{	
+	background-color: #02b7c2;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 16px;
+    width:55%;
+    margin:0px auto;
+}
+
+li {
+    float: left;
+
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    
+    text-decoration: underline;
+    color:white;
+}
+i{
+	margin:0px 10px;
+}
+
+
+
+/*MIDDLE SEC*/
+#pr{
+	/*margin:auto;
+	text-align:center;*/
+	font-size:34px;
+	width:100%;
+
+}
+#src{
+	
+	text-align:center;
+	margin:auto;
+	width:100%;
+}
+
+figcaption{
+	text-align:center;
+}
+
+#src{
+	float:right;
+}
+.pull-right{
+	height:35px;
+}
+#noim{
+	background-image:none;
+}
+
+#leftarr{
+	margin:-50px;
+	color:black;
+}
+
+
+
+
+
+
+
+
+
+/*FOOTER STYLING*/
+h4{
+	
+	padding-top:20px;
+
+
+}
+
+#bottom{
+	background-color: #02b7c2;
+	color:white;
+	height:350px;
+	width:100%;
+	
+}
+ div#bottom h4{
+	margin-left:40px;
+	
+}
+
+
+div#bottom ul{
+    list-style-type: none;
+    margin-left: 40px;
+    padding: 0;
+    overflow: hidden;
+  
+    
+  }
+
+div#bottom li {
+    float: left;
+      font-size: 14px;
+	
+
+}
+
+div#bottom li a {
+    display: block;
+    color: white;
+    text-align:left;
+    padding: 0px 3px;
+    text-decoration: none;
+}
+
+div#bottom li a:hover {
+    
+    text-decoration: underline;
+    color:white;
+}
+
+span#foot{
+	display:inline-block;
+	width:20%;
+}
+
+#aboutus h4{
+	border-top:1px solid black;
+	border-bottom:1px solid black;
+
+}
+i{
+	font-size: 24px;
+}
+
+
+
+
